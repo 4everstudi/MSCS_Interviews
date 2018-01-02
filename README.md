@@ -1,4 +1,4 @@
-# MSCS_Interviews
+# Interview talks about microservice architecture in the framework of a master's thesis.
 
 ===
 
