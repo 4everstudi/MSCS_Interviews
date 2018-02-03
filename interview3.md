@@ -271,7 +271,7 @@ A. Okay, because another aspect that others mention often about Kubernetes is th
 
 B. Yeah, you’re right. So if I were developing a system and I were just going to use let’s say Amazon’s AWS, I wouldn’t necessarily need Kubernetes. AWS probably provides enough infrastructure that I wouldn’t need to use it, right.
 
-A. Sorry, and that’s exactly the problem right now for Talando, because they’re experiencing right now this window log (???) and they would like to try the Google Cloud but they cant’.
+A. Sorry, and that’s exactly the problem right now for <companyName>, because they’re experiencing right now this window log (???) and they would like to try the Google Cloud but they cant’.
 
 B. Yeah. And that’s where Kubernetes helps you solve that. There are several competing solutions out there, some pure container based, some not. 18 months ago we looked at a product called Pivotal by Cloud Foundry … it was okay. Again, it was super heavyweight. I played around with Microsoft’s service fabric solution. It’s actually a very nice solution, very very useable. It’s tied to processes, not necessarily to containers, but its really closely tied to .net and to Microsoft in general, so its not mature enough, I don’t believe, in terms of using it on Amazon or Google, or something else, so that’s why we kind of stayed a little bit away from that one. But Kubernetes seems to be the industry leader right now. I believe it came out of a collaboration with Google and someone else, I can’t remember. The other one that’s getting a lot of attention is Apache Mesos, it’s a direct competitor to Kubernetes.
 
