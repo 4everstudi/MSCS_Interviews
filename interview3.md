@@ -4,7 +4,7 @@
 
 "B" for Interviewee answers
 
-Interview was made on 10.07.2017, face-to-face
+Interview was made on 12.08.2017, skype meeting
 
 ===
 
