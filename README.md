@@ -8,7 +8,7 @@
 ## Anonimous Interviewee 2 (will be publisched in January 2018)
 - [Interview 2](interview2.md) - 0% complete
 
-## Anonimous Interviewee 3 (will be publisched in February 2018)
+## Anonimous Interviewee 3
 - [Interview 3](interview3.md) - 100% complete
 
 ## Anonimous Interviewee 4 (will be publisched in February 2018)
